@@ -44,3 +44,15 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+
+## Start of New ReadMe
+The primary goal of this challenge was to provide the customer with an HTML file that used semantic elements and ensure the deployed site was more accessable to accessability features like screen readers.
+
+Secondly, the original style sheet was incredibly repetitive and needed to be restructured in order to create a logical workflow, that makes for easier editing and location of certain style elements based on the order of the main HTML file.
+
+Another ajustment that was made was; in the original mockup, the content section height didn't match that of the benefits section. I believe this made for a messy look and having both sections end a the same point makes the website look neater and more planned. This can be seen in the following photos.
+
+Without section height adjustments: [Webpage without section heights aligned](./assets/images/Not-Aligned.png)
+
+With section height sdjustments: [Webpage with section heights aligned](./assets/images/Aligned.png)
